@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.7.3)
+  - FoldingCell (3.1.2)
+  - LTScrollView (0.2.1)
+  - MJRefresh (3.1.15.3)
+  - Starscream (3.0.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - FoldingCell
+  - LTScrollView (~> 0.2.0)
+  - MJRefresh
+  - Starscream
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FoldingCell
+    - LTScrollView
+    - MJRefresh
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  FoldingCell: e9b02668b89af673c377cb9560edcc4c6b293a95
+  LTScrollView: 93fff4aed9f9545f541a99b320b27808f5307c12
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+
+PODFILE CHECKSUM: fabdb3f8687024927d659ca25583e4166c769da9
+
+COCOAPODS: 1.5.3
